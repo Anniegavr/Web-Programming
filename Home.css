@@ -1,0 +1,335 @@
+.section-1 .sheet-1 {
+  min-height: 976px;
+}
+
+.section-1 .layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.event-menu {
+  margin-left: 620px;
+  margin-top: -130px;
+  font-size: large;
+}
+
+.section-1 .image-1 {
+  min-height:976px;
+  background-image: url("/images/g1bbfda4f1673667f1008a6a3c08354931483e7a668e8f4d343f5bacc8d484857d741d829ed6f2db044f07e47302a36d6303d25617b2ce902d10df98b42ed1101_1280.jpg");
+}
+
+.section-1 .container-layout-1 {
+  padding: 80px;
+}
+
+.section-1 .text-1 {
+  font-size: 6rem;
+  margin: 33px auto 0;
+}
+
+.section-1 .image-2 {
+  min-height: 976px;
+  background-image: url("/images/oliver-credits-StefanBrending2eight.jpg");
+  background-position: 50% 50%;
+}
+
+.section-1 .container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .section-1 .sheet-1 {
+    min-height: 651px;
+  }
+
+  .section-1 .image-1 {
+    min-height: 640px;
+  }
+
+  .section-1 .image-2 {
+    min-height: 640px;
+  }
+}
+
+@media (max-width: 991px) {
+  .section-1 .sheet-1 {
+    min-height: 514px;
+  }
+
+  .section-1 .image-1 {
+    min-height: 490px;
+  }
+
+  .section-1 .image-2 {
+    min-height: 490px;
+  }
+}
+
+@media (max-width: 767px) {
+  .section-1 .sheet-1 {
+    min-height: 1619px;
+  }
+
+  .section-1 .image-1 {
+    min-height: 538px;
+  }
+
+  .section-1 .container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .section-1 .image-2 {
+    min-height: 1161px;
+  }
+
+  .section-1 .container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .section-1 .sheet-1 {
+    min-height: 1044px;
+  }
+
+  .section-1 .image-1 {
+    min-height: 339px;
+  }
+
+  .section-1 .text-1 {
+    font-size: 1.875rem;
+  }
+
+  .section-1 .image-2 {
+    min-height: 70px;
+  }
+}.section-2 .sheet-1 {
+  min-height: 976px;
+}
+
+.section-2 .list-1 {
+  margin-bottom: 0;
+}
+
+.section-2 .layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.section-2 .image-1 {
+  min-height: 303px;
+  background-image: url("/images/kerrangcdn_com_Bring-Me-The-Horizon-December-2021-promo.jpg");
+}
+
+.section-2 .container-layout-1 {
+  padding: 30px;
+}
+
+.section-2 .image-2 {
+  min-height: 303px;
+  background-image: url("/images/g0bec5afaf50afe3ffae1d46a6ae3bada34def8a5bb6c71bbcd9a624cb6342987d9ca3e78f87689cea4a86a5ddc15c04de6b23ea7209b18f09b1866ceb1dbf488_1280.jpg");
+}
+
+.section-2 .container-layout-2 {
+  padding: 30px;
+}
+
+.section-2 .image-3 {
+  min-height: 673px;
+  background-image: url("/images/2fb1e8fe5cf03a40e1199ad9606de121.jpg");
+}
+
+.section-2 .container-layout-3 {
+  padding: 30px;
+}
+
+.section-2 .image-4 {
+  min-height: 673px;
+  background-image: url("/images/g8e9a2ed788e7790dad269591b6ea2a3a19871b5a207fb300f526137831566630c06531c58b771396bd2f43a6b73c9caa9301ca2c49ae0f11b1cefaf0e137fa07_1280.jpg");
+}
+
+.section-2 .container-layout-4 {
+  padding: 30px;
+}
+
+.section-2 .text-1 {
+  font-weight: 400;
+  font-size: 4.5rem;
+  margin: 15px auto 0 20px;
+}
+
+.section-2 .text-2 {
+  margin: 150px 515px 0 160px;
+}
+
+.section-2 .btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 20px auto 0 227px;
+  padding: 0;
+}
+
+.section-2 .icon-1 {
+  font-size: 1.4em;
+}
+
+.section-2 .text-3 {
+  margin: 48px 240px 0 407px;
+}
+
+.section-2 .btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 20px 360px 0 auto;
+  padding: 0;
+}
+
+.section-2 .icon-2 {
+  font-size: 1.4em;
+}
+
+@media (max-width: 1199px) {
+  .section-2 .sheet-1 {
+    min-height: 500px;
+  }
+
+  .section-2.image-1 {
+    min-height: 50px;
+    max-height: 90px;
+  }
+
+  .section-2 .image-2 {
+    min-height: 250px;
+  }
+
+  .section-2 .image-3 {
+    min-height: 390px;
+  }
+
+  .section-2 .image-4 {
+    min-height: 390px;
+  }
+
+  .section-2 .text-2 {
+    margin-left: 93px;
+    margin-right: 234px;
+  }
+
+  .section-2 .btn-1 {
+    margin-left: 94px;
+  }
+
+  .section-2 .text-3 {
+    margin-right: 0;
+    margin-left: 327px;
+  }
+
+  /*.section-2 .btn-2 {*/
+  /*  margin-right: 0;*/
+  /*}*/
+}
+
+@media (max-width: 991px) {
+  .section-2 .image-1 {
+    min-height: 191px;
+  }
+
+  .section-2 .image-2 {
+    min-height: 191px;
+  }
+
+  .section-2 .image-3 {
+    min-height: 299px;
+  }
+
+  .section-2 .image-4 {
+    min-height: 299px;
+  }
+
+  .section-2 .text-2 {
+    margin-left: 20px;
+    margin-right: 195px;
+  }
+
+  .section-2 .btn-1 {
+    margin-left: 0;
+  }
+
+  .section-2 .text-3 {
+    margin-left: 180px;
+  }
+}
+
+@media (max-width: 767px) {
+  .section-2 .image-1 {
+    min-height: 367px;
+  }
+
+  .section-2 .container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .section-2 .image-2 {
+    min-height: 170px;
+  }
+
+  .section-2 .container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .section-2 .image-3 {
+    min-height: 365px;
+  }
+
+  .section-2 .container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .section-2 .image-4 {
+    min-height: 336px;
+  }
+
+  .section-2 .container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .section-2 .image-1 {
+    min-height: 231px;
+  }
+
+  .section-2 .image-2 {
+    min-height: 107px;
+  }
+
+  .section-2 .image-3 {
+    min-height: 230px;
+  }
+
+  .section-2 .image-4 {
+    min-height: 212px;
+  }
+
+  .section-2 .text-1 {
+    font-size: 1.875rem;
+  }
+
+  .section-2 .text-2 {
+    margin-right: 0;
+  }
+
+  .section-2 .text-3 {
+    margin-left: 0;
+  }
+}
