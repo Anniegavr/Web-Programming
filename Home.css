@@ -14,8 +14,9 @@
 }
 
 .section-1 .image-1 {
-  min-height:976px;
   background-image: url("/images/g1bbfda4f1673667f1008a6a3c08354931483e7a668e8f4d343f5bacc8d484857d741d829ed6f2db044f07e47302a36d6303d25617b2ce902d10df98b42ed1101_1280.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .section-1 .container-layout-1 {
